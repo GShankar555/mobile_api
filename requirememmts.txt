@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+opencv-python
+numpy
+scipy
+ultralytics
+torch
+deep_sort_realtime
+scikit-learn
+pickle-mixin
+python-multipart
